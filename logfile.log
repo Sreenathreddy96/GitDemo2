@@ -1,0 +1,21 @@
+2023-04-14 17:24:22,712 :INFO : test_formSubmission :first name is Rahul
+2023-04-14 17:24:23,876 :INFO : test_formSubmission :first name is Anshika
+2023-04-14 17:24:23,876 :INFO : test_formSubmission :first name is Anshika
+2023-04-14 17:24:29,552 :INFO : test_e2e :getting all card titles
+2023-04-14 17:24:30,050 :INFO : test_e2e :Entering country as ind
+2023-04-14 17:24:35,630 :INFO : test_e2e :text received from the application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-14 17:45:42,523 :INFO : test_formSubmission :first name is Rahul
+2023-04-14 17:45:43,777 :INFO : test_formSubmission :first name is Anshika
+2023-04-14 17:45:43,777 :INFO : test_formSubmission :first name is Anshika
+2023-04-14 17:45:50,728 :INFO : test_e2e :getting all card titles
+2023-04-14 17:45:51,275 :INFO : test_e2e :Entering country as ind
+2023-04-14 17:45:56,897 :INFO : test_e2e :text received from the application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-04-14 18:03:45,922 :INFO : test_formSubmission :first name is Rahul
+2023-04-14 18:03:54,851 :INFO : test_formSubmission :first name is Anshika
+2023-04-14 18:03:54,851 :INFO : test_formSubmission :first name is Anshika
+2023-04-14 18:04:06,954 :INFO : test_e2e :getting all card titles
+2023-04-14 18:04:07,457 :INFO : test_e2e :Entering country as ind
+2023-04-14 18:04:13,022 :INFO : test_e2e :text received from the application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
